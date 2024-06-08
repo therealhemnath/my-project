@@ -1,2 +1,0 @@
-sample world
-not sample world. No use of this file.
